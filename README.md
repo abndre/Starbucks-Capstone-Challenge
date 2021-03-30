@@ -8,7 +8,7 @@ Project in Data Scientist Nanodegree of Udacity
 3. [File Descriptions](#files)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Installation <a name="installation"></a>
+## Installation<a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda 
 distribution of Python.  The code should run with no issues using Python versions 3.*.
@@ -23,7 +23,7 @@ We are interested to answer the following two questions:
 2. Which demographic groups respond best to which offer type?
 
 
-## File Descriptions <a name="files"></a>
+## File Descriptions<a name="files"></a>
 
 ```
 ├── README.md
