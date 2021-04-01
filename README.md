@@ -16,11 +16,12 @@ distribution of Python.  The code should run with no issues using Python version
 ## Project Motivation<a name="motivation"></a>
 
 It is the Starbuck's Capstone Challenge of the Data Scientist Nanodegree in Udacity. 
-We get the dataset from the program that creates the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers. We want to make a recommendation engine that recommends Starbucks which offer should be sent to a particular customer.
+We get the dataset from the program that creates the data simulates 
+how people make purchasing decisions and how those decisions are
+influenced by promotional offers.
 
 We are interested to answer the following two questions:
-1. Which offer should be sent to a particular customer to let the customer buy more?
-2. Which demographic groups respond best to which offer type?
+1. Which demographic groups respond best to which offer type?
 
 
 ## File Descriptions<a name="files"></a>
