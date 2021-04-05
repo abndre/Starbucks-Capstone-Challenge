@@ -20,8 +20,11 @@ We get the dataset from the program that creates the data simulates
 how people make purchasing decisions and how those decisions are
 influenced by promotional offers.
 
-We are interested to answer the following two questions:
+We are interested to answer the following questiom:
+
 1. Which demographic groups respond best to which offer type?
+2. Have any difference for response offer based in Age?
+3. Have differences in bogo or discount for groups?
 
 
 ## File Descriptions<a name="files"></a>
@@ -53,6 +56,11 @@ In the root folder have the notebook (Starbucks_Capstone_notebook.ipynb) for the
 a README for be used in git project. And tree files end with .p, for be used in notebook, 
 with files you don't need run the correlation matrix, the process is so slow. 
 
+
+## Medium Post
+
+Here i writ a little discussion about the project:
+[MEDIUM](https://andrezio.medium.com/starbucks-capstone-challenge-a168f2cdc267)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
